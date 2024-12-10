@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    background-color:rgb(89, 119, 146);
+    font-family: "Neue Montreal";
+    cursor: none;
+}
+.back-icon{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 2rem;
+    color: rgb(219, 217, 228);
+}
+.back-icon:hover{
+   color: rgb(33, 45, 56); 
+}
